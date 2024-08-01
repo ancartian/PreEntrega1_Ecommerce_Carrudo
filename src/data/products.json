@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Ableton Live 12",
+        "id": 1,
+        "category": "cursos",
+        "detail": "Introducción a la ultima version del DAW Ableton Live, nuevas caracteristicas, instrumentos virtuales, vista de arreglo y vista de sesion.",
+        "img": "https://www.diariodeferrol.com/images/showid2/4217522?w=900"
+    },
+
+    {
+        "name": "Mezcla y Mastering",
+        "id": 2,
+        "category": "servicios",
+        "detail": "Tecnicas de mezcla, nivel de volumenes, concepto de headroom, grabacion de voces, cadenas de efectos",
+        "img": "https://img.freepik.com/fotos-premium/mano-microfono-mezclador-sonido-escala-grises_53876-10501.jpg?w=740"
+    },
+
+    {
+        "name": "Marketing Musical",
+        "id": 3,
+        "category": "servicios",
+        "detail": "Industria de la musica, redes sociales, distribuidoras y sellos discograficos, marca personal, publicidad y playlist.",
+        "img": "https://scontent.flpg4-1.fna.fbcdn.net/v/t1.6435-9/174142906_4122656537756422_2911547174553035832_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=13d280&_nc_ohc=9eQc_5tuedsQ7kNvgFNVCSr&_nc_ht=scontent.flpg4-1.fna&gid=AvNZcahlHIL0zcxWDm_rVQa&oh=00_AYBRFF1ItyRe1JjBD5CjfGertOpyPxn1oZaL-0vrE3zgmw&oe=66D03BE1"
+    }
+]
